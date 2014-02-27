@@ -1,7 +1,3 @@
-# Atom Bone-a-kite
+# Bone-a-kite
 
-Bone-a-kite ported from Sublime Text.
-
-### Screenshot
-
-![](bone-a-kite-screenshot.png)
+![bone-a-kite](https://raw.github.com/jacobbednarz/atom-bone-a-kite/master/bone-a-kite-screenshot.png)
