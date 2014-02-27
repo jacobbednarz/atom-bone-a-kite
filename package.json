@@ -3,8 +3,8 @@
   "theme": "syntax",
   "version": "0.0.0",
   "private": true,
-  "description": "A short description of your theme",
-  "repository": "https://github.com/atom/bone-a-kite",
+  "description": "Bone-a-kite Theme",
+  "repository": "https://github.com/jacobbednarz/atom-bone-a-kite",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
